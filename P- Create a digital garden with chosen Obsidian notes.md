@@ -1,7 +1,9 @@
 up: [[Idea multiplayer]] (implementations, once I finish this)
 # P- Create a digital garden with chosen Obsidian notes
 
-Objective: yes
+This is where I'm publicly logging my goal to craft a digital garden.
+
+Objective: Craft a digital garden that syncs from a folder in Obsidian to my website.
 
 Key results
 - be able to put notes in a folder and have them upload to site
