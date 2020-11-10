@@ -12,6 +12,8 @@ Key results
 - [ ] Auto-sync from git to website
 - [ ] Auto-convert wikilinks in Obsidian to good URIs on site
 	- [Cool URIs don't change](https://www.w3.org/Provider/Style/URI) (thanks, @Flancia for putting this on your garden) 
+	- [Evergreen note titles are like APIs](https://notes.andymatuschak.org/Evergreen_note_titles_are_like_APIs)
+		- actually, meshes the metaphor! I need a name for this system...
 - [ ] Each wikilink page has a go link for it
 
 
@@ -23,8 +25,7 @@ outside the scope of focus right now
 			- could make list of go links for stuff I've posted and have a thing of code that changes the wikilinks to go links
 			- or, I could just put uploaded things in a different
 
-- make good URIs out of the , as in [this](https://notes.andymatuschak.org/Evergreen_note_titles_are_like_APIs)
-	- actually, meshes the metaphor!
+
 
 - [ ] after you do this, change it into 
 
