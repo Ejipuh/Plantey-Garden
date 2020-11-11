@@ -37,6 +37,7 @@ Key results (KR)
 	- Basically, "commit and push" are programmer speak for adding things into a digital project. For my purposes, what it means is that anything that changed about the specific stuff in the "public" folder will change on the web, and any changes will be made. Think of it as copy-pasting the "public" folder from my computer to wherever my digital garden is on the web
 	- For now, I got
 
+
 ### 11-10-2020
 
 **Now: trying to figure out how to achieve the second goal...**
@@ -107,10 +108,11 @@ idk if I'll even need the automatic commit and push, but I'll leave it open. the
 
 I'll call that a wrap for the day.
 
+Bug: if you change the title, it breaks the go link from my site, since ethanplante.org/go/garden-progress is based on the name that the GitHub link has...
 
 
 ---
-Next goal: 
+Next goal: Make my site editable on my local side (aka laptop) and to update when I commit and push so that I can avoid the problem of naming that I encountered.
 
 ---
 tags: #garden, #activeProject, #publicBuild
