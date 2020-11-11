@@ -18,11 +18,10 @@ Key results
 
 
 scratchpad
-- tweet about this note
-- try using AHK
 
 
-	---
+
+---
 outside the scope of focus right now
 - maybe use AHK to run this regularly: ([from Flancia](https://flancia.org/mine/roam-likes/))
 	` 
