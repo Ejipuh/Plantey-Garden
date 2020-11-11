@@ -74,7 +74,7 @@ So my difficulty right now is that I'm trying to run a git bash script from the 
 
 pro tip: you have to delete and read redirects in your htaccess file
 
-yee
+yeehee
 
 
 stuff I did
