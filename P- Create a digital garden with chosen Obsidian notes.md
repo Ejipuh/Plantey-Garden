@@ -22,10 +22,12 @@ Key results
 
 
 # scratchpad
+So apparently this uses Git Bash: [[Git Bash shortcuts]]
+
 Intentionally unclear--to you and to me.
 
 Problem: Unless I copy notes, then putting them in the other file seems to make them slightly less secure. Is this the case...?
-- 
+- Actually, wait. By copying the github repo to my computer and relying on it to feed in to the site (which is what commits do), I'm securing it on this laptop and 
 
 
 outside the scope of focus right now
