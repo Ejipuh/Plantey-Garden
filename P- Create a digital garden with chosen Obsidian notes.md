@@ -12,8 +12,9 @@ Objective: Craft a digital garden that syncs to my website from a folder in Obsi
 
 Key results
 - [ ] Easy way to put a note in a folder
-- [ ] Commits new markdown files from Obsidian subfolder to git
-- [ ] Auto-sync from git to website
+- [ ] Easy way to commit and push to GitHub
+	- Looks like AHK and Task Scheduler will help me the most here
+- [ ] Automatic upload from github to website
 - [ ] Auto-convert wikilinks in Obsidian to good URIs on site
 	- [Cool URIs don't change](https://www.w3.org/Provider/Style/URI) (thanks, @Flancia for putting this on your garden) 
 	- [Evergreen note titles are like APIs](https://notes.andymatuschak.org/Evergreen_note_titles_are_like_APIs)
@@ -24,7 +25,7 @@ Key results
 # scratchpad
 Intentionally unclear--to you and to me.
 
-So apparently this uses Git Bash: [[Git Bash shortcuts]]
+[[Git Bash shortcuts]]
 
 
 
