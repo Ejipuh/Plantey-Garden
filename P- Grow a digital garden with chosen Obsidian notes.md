@@ -70,11 +70,25 @@ Anyways, back to it...
 So my difficulty right now is that I'm trying to run a git bash script from the windows cmd line. nice. I need a break.
 
 [vscode extension for ahk](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-autohotkey-plus)
+my edits:
+- removed git add --all
+-
 
+commentary:
+`#!/bin/sh
+cd 'C:\Users\eplan\Google Drive\3 - Resources\Obsidian Vaults\The Treehouse Network\Plantey-Garden'
+
+timestamp() {
+  date +"at %H:%M:%S on %d/%m/%Y"
+}
+git commit -a -m "Regular auto-commit $(timestamp)"
+git push`
 
 pro tip: you have to delete and read redirects in your htaccess file
 
 yeehee
+
+removed git add --all
 
 
 stuff I did
