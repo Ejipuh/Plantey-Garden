@@ -24,6 +24,8 @@ Key results
 # scratchpad
 Intentionally unclear--to you and to me.
 
+Problem: Unless I copy notes, then putting them in the other file seems to make them slightly less secure. Is this the case...?
+- 
 
 
 outside the scope of focus right now
