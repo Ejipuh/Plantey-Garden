@@ -1,7 +1,11 @@
 up: [[Idea multiplayer]] (implementations, once I finish this)
 # P- Create a digital garden with chosen Obsidian notes
+Hello! If you're here, it means you're interested in my project. In essence, I'm trying to make a fairly easy way to sync Obsidian notes to [my website](ethanplante.org). 
+
 
 This is where I'm publicly logging my goal to craft a digital garden.
+
+
 
 ---
 Objective: Craft a digital garden that syncs to my website from a folder in Obsidian.
@@ -47,8 +51,11 @@ Resources I used...
 
 
 ---
-Unclear things I found
-- I'm not a programmer, so it would be really helpful for 1. to have this...
+Unclear Parts of Reading to Learn from
+- I'm not a programmer, so it would be really helpful for 1) & 2) to have options to figure out exactly what the different things are.
+	- Relating to this point: *If you see anything confusing here, or things that I'm not giving enough context for, I would really appreciate it if you let me know. I want to make this easy to read and understand so that I can share it confidently with others. Shoot me a Tweet at [@plantey_tools](https://twitter.com/plantey_tools)*
+
+
 
 ---
-tags: #garden, #activeProject 
+tags: #garden, #activeProject, #publicBuild
