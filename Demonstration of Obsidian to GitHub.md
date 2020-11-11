@@ -29,5 +29,5 @@ Now, all I have to do is move this file into Plantey-Garden (where my GitHub rep
 
 
 
-Hello! Me again. I hid this bit earlier.
+Hello! Me again. I hid this bit earlier. I want to show you that this really updates, so I'm writing some stuff out here to show you. *presses keybind*
 
