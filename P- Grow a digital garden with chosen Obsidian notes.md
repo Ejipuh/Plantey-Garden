@@ -100,6 +100,10 @@ woo! semi-automatic!
 
 this. is. so. fun!
 
+Now that I think of it, I could probably make an AHK script to tag the current 
+
+idk if I'll even need the automatic commit and push, but I'll leave it open. the manual tool is frictionless enough for now.
+
 
 
 
