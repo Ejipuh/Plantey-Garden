@@ -29,4 +29,4 @@ Now, all I have to do is move this file into Plantey-Garden (where my GitHub rep
 
 
 
-Hello! Me again. I hid this bit earlier. Now, I'm going to...
+Hello! Me again. I hid this bit earlier. Now, I'm going to show you that this actually updates in real-time when you hit the keyboard shortcut.
