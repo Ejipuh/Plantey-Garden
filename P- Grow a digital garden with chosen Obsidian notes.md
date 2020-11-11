@@ -92,6 +92,10 @@ niiiiiiiiiice. I did it! I can commit and push from the command line now!
 
 now for the hotkey. that's the big one for now. I'm using [this](https://www.autohotkey.com/docs/commands/Run.htm) guide to figure this out...
 
+sick. nice. sweet. it had given me an error in vs code that the hotkey was invalid, but that was only because I put `#t ::` instead of `#t::`. (that means win-t does the stuff after ::, btw)	
+
+oh wait. it conflicts with another shortcut. [back to the basics](https://www.autohotkey.com/docs/Hotkeys.htm)
+
 
 
 
