@@ -98,7 +98,7 @@ oh wait. it conflicts with another shortcut. [back to the basics](https://www.au
 
 woo! semi-automatic!
 
-this. is. so. fun.
+this. is. so. fun!
 
 
 
