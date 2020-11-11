@@ -110,6 +110,7 @@ I'll call that a wrap for the day.
 
 Bug: if you change the title, it breaks the go link from my site, since ethanplante.org/go/garden-progress is based on the name that the GitHub link has...
 
+demonstration: I can edit this note, hit a little buttony thing, and sha-boom: there we are.
 
 ---
 Next goal: Make my site editable on my local side (aka laptop) and to update when I commit and push so that I can avoid the problem of naming that I encountered. (Besides, I've been wanting to figure this out since I read about [Flancian's take on go links](https://flancia.org/mine/go-links/))
