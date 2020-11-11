@@ -94,8 +94,9 @@ now for the hotkey. that's the big one for now. I'm using [this](https://www.aut
 
 sick. nice. sweet. it had given me an error in vs code that the hotkey was invalid, but that was only because I put `#t ::` instead of `#t::`. (that means win-t does the stuff after ::, btw)	
 
-oh wait. it conflicts with another shortcut. [back to the basics](https://www.autohotkey.com/docs/Hotkeys.htm)
+oh wait. it conflicts with another shortcut. [back to the basics](https://www.autohotkey.com/docs/Hotkeys.htm) made it win-ctrl-c, since that's harder to hit accidentally.
 
+woo! semi-automatic!
 
 
 
