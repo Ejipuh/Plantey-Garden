@@ -74,7 +74,7 @@ So my difficulty right now is that I'm trying to run a git bash script from the 
 [vscode extension for ahk](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-autohotkey-plus)
 my edits:
 - removed git add --all
--
+	- based on errors I was getting, this might have been a bad idea xD
 
 commentary:
 `#!/bin/sh
