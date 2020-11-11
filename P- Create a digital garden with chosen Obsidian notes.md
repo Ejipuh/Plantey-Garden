@@ -11,7 +11,7 @@ This is where I'm publicly logging my goal to craft a digital garden.
 Objective: Craft a digital garden that syncs to my website from a folder in Obsidian.
 
 Key results
-- [x] Drag and drop obsidian note to subfolder in Obsidian (built in, lol)
+- [ ] Easy way to put a note in a folder
 - [ ] Commits new markdown files from Obsidian subfolder to git
 - [ ] Auto-sync from git to website
 - [ ] Auto-convert wikilinks in Obsidian to good URIs on site
@@ -21,11 +21,11 @@ Key results
 - [ ] Each wikilink page has a go link for it
 
 
-scratchpad
+# scratchpad
+Intentionally unclear--to you and to me.
 
 
 
----
 outside the scope of focus right now
 - maybe use AHK to run this regularly: ([from Flancia](https://flancia.org/mine/roam-likes/))
 	` 
@@ -59,3 +59,4 @@ Unclear Parts of Reading to Learn from
 
 ---
 tags: #garden, #activeProject, #publicBuild
+
