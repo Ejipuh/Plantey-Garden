@@ -88,16 +88,12 @@ pro tip: you have to delete and read redirects in your htaccess file
 
 yeehee
 
-removed git add --all
+niiiiiiiiiice. I did it! I can commit and push from the command line now!
 
-
-stuff I did
-...Today, I setup the basic flow of Obsidian -> GitHub...
+now for the hotkey. that's the big one for now. I'm using [this](https://www.autohotkey.com/docs/commands/Run.htm) guide to figure this out...
 
 
 
-might need
-- might need [this](https://gist.github.com/damc-dev/eb5e1aef001eef78c0f4#file-runbashscript-bat) later, but I'll come back if so...
 
 
 
