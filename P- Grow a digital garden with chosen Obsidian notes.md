@@ -55,8 +55,8 @@ Cool, so I finished my first completion checkpoint for this. Now, to figure out 
 Maybe I should make an [AHK](https://www.autohotkey.com/) script to run this more easily, or  regularly: 
 
 
-Basically, I'll be adapting this code [from Flancia](https://flancia.org/mine/roam-likes/)) to my own need
-	` 
+Basically, I'll be adapting this code [from Flancia](https://flancia.org/mine/roam-likes/)) to my own needs:
+` 
 	$ cd garden
 	$ git commit -a -m "Some message saying what's in this commit."
 	$ git push
@@ -72,6 +72,9 @@ So my difficulty right now is that I'm trying to run a git bash script from the 
 [vscode extension for ahk](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-autohotkey-plus)
 
 
+pro tip: you have to delete and read redirects in your htaccess file
+
+yee
 
 
 stuff I did
