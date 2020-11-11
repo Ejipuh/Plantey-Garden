@@ -17,19 +17,39 @@ Key results
 - [ ] Each wikilink page has a go link for it
 
 
+scratchpad
+- tweet about this note
+- try using AHK
+
+
+	---
 outside the scope of focus right now
+- maybe use AHK to run this regularly: ([from Flancia](https://flancia.org/mine/roam-likes/))
+	` 
+	$ cd garden
+	$ git commit -a -m "Some message saying what's in this commit."
+	$ git push
+	`
 - Create an automated way to convert wikilinks to go links
 	- would still look like wikilinks to indicate internals
 	- the latter would be based on the name for it, and could be a /go/ link that redirects to a part of /garden/[note name]
 		- handling duplicate content (for ex., stuff I posted on Twitter)
 			- could make list of go links for stuff I've posted and have a thing of code that changes the wikilinks to go links
 			- or, I could just put uploaded things in a different
+- 
 
 
 
 - [ ] after you do this, change it into 
 
-Resources I used
+Resources I used...
+1. 
+2. [Flancia's guide for different Roam-likes](https://flancia.org/mine/roam-likes/)
+
+
+---
+Unclear things I found
+- I'm not a programmer, so it would be really helpful for 1. to have this...
 
 ---
 tags: #garden, #activeProject 
