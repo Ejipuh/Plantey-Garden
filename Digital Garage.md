@@ -8,6 +8,8 @@ Current project: [[P- Setup go links on site]] -- [Go link](https://ethanplante.
 ---
 For progress on my digital garden process, see [[Digital garden progress]](https://ethanplante.org/go/garden-progress)
 
+<a name="myfootnote1">1</a>: Footnote content goes here
+<sup>[1](#myfootnote1)</sup>
 
 
 ---
