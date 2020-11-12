@@ -55,12 +55,16 @@ Yes, but this one actually stays within a single cmd window, so that's nice.
 
 *I realize that this is kind of like a more removed version of live-streaming. Interesting. Perhaps I could make another twitter account for project updates / garden updates*
 
-00:37 -- Alright. Bite-sized goal: *find* the .htaccess file with cmd.
+00:37 -- Alright. {Bite-sized goal: *find* the .htaccess file with cmd.
 
-00:54 -- Since the last update, a friendly fellow named Alex P. gave me a notification on [one of the tabs I had open](https://www.hostwinds.com/guide/creating-editing-htaccess-file/). (Hello, by the way.)
+00:54 -- Since the last update, a friendly fellow named Alex P. gave me a notification on [one of the tabs I had open](https://www.hostwinds.com/guide/creating-editing-htaccess-file/).
 
----
-Current Focus: Find the .htaccess file with command line...
+1:04 -- So it turns out that the next step was typing in `cd /public_html` and then 'get  .htaccess'. } (<-- this means that I figured out my bite-sized goal.) {My problem now is figuring out where it's downloaded
+
+
+
+and how to edit it with a script...
+
 
 ---
 ...
