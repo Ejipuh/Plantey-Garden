@@ -1,13 +1,14 @@
 # P- Setup go links on site
-Objective: make a list of live go links that my site uses that regularly updates to my site
+## Objective: 
+Make a list of live go links that my site uses that regularly updates to my site
 
-Key Results:
+## Key Results:
 - [ ] easily edit go links
 - [ ] make live list in Obsidian of go links you have ([vault]/go-links-list)
-	- [ ] and on site (under /go/?)
+	- [ ] and on site (under /go/)
 - [ ] create go link when you upload digital garden
 
-Relevance:
+## Relevance:
 - if I can't do this, then the links in my posts will be limited and cut off from the rest of my digital garden
 - lets me cite my garden spots...
 
@@ -62,6 +63,12 @@ Yes, but this one actually stays within a single cmd window, so that's nice.
 1:04 -- So it turns out that the next step was typing in `cd /public_html` and then 'get  .htaccess'. } (<-- this means that I figured out my bite-sized goal.) {My problem now is figuring out where it's downloaded and how to edit it with a script...
 
 1:20 -- Alex says that I might need to extend this to a .NET assembly. I assume this is so that it can run files in a more complex programming language than just command line.
+
+1:33 -- Alex: "After reviewing all the relevant information, I would suggest writing a PowerShell script, that incorporates the WinSCP executable to download the remote file, then remove. Afterwards, edit the file from shell with another command like Add-Content, then pass the file through to WinSCP once more for the upload. I would be interested in further research for this project, I will contact you later tonight possibly."
+
+2:20 -- I'm ending work here for today. Alex mentioned other possibilities than PowerShell (like using the server's Linux capabilities), but I'll look at those tomorrow. This is still an important project (see [Relevance](ethanplante.org/go/go-links-setup#Relevance)), and I'm not sure how much progress I've actually made toward the goal. Still enjoyed figuring this out, though.
+
+---
 
 
 
