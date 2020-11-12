@@ -51,7 +51,7 @@ Yes, but this one actually stays within a single cmd window, so that's nice.
 
 00:18 -- Aaaaaaand, I found the meat of the matter. [This article covers automation](https://winscp.net/eng/docs/guide_automation).
 
-
+12:25 -- How do I edit the .htaccess file? Do I need to download it, edit, then reupload?
 
 ---
 Current Focus: Edit .htaccess with command line...
