@@ -8,7 +8,8 @@ Make a list of live go links that my site uses that regularly updates to my site
 	- [ ] and on site (under /go/)
 - [ ] create go link when you upload digital garden
 
-## Relevance:
+## Relevance
+- Enables a good index for my go links
 - if I can't do this, then the links in my posts will be limited and cut off from the rest of my digital garden
 - lets me cite my garden spots...
 
