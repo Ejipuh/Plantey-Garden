@@ -69,3 +69,6 @@ and how to edit it with a script...
 ---
 ...
 *Maybe it would be better to put the total time elapsed instead of the current time. Next time, I might just have a start and end time.*
+
+---
+tags: #publicBuild, #activeProject 
