@@ -1,18 +1,18 @@
 # P- Setup go links on site
-DB: once you're here, let me know...
+`DB: once you're here, let me know...`
 
 ---
 Objective: make a list of live go links that my site uses that regularly updates to my site
 
 Key Results:
 - [ ] easily edit go links
-- [ ] make live list in Obsidian of go links you have
-	- [ ] and on site
-- [ ] create go link on upload of digital garden
+- [ ] make live list in Obsidian of go links you have ([vault]/go-links-list)
+	- [ ] and on site (under /go/?)
+- [ ] create go link when you upload digital garden
 
 Relevance:
 - if I can't do this, then the links in my posts will be limited and cut off from the rest of my digital garden
-- lets me cite them off-hand
+- lets me cite my garden spots...
 
 ---
 ## Log
@@ -40,6 +40,14 @@ When I want to run the WinSCP console, I need to put `"C:\Program Files (x86)\Wi
 
 
 Soon enough, I'll be able to edit my go link redirects from the command line...
+
+...
+
+23:57 -- I've been logging this on a text file as I'm going. I think you can run scripts from it. Speaking of scripts, I just moved on from the commandline article to [this one on scripting](https://winscp.net/eng/docs/scripting), since the first told me to.
+
+So the first order of business is to use the bit of code I had above, and make a script from it...
+
+Is `"C:\Program Files (x86)\WinSCP\WinSCP.com"` the same thing? The site describes them similarly...
 
 ---
 Current Focus: Edit .htaccess with command line...
