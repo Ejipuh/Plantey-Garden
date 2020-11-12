@@ -11,4 +11,6 @@ Relevance:
 - lets me cite them off-hand
 
 ---
-Log
+## Log
+Downloaded WinSCP as the software that can interact with files on my site.
+
