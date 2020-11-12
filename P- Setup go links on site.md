@@ -1,5 +1,4 @@
 # P- Setup go links on site
-sup
 ## Objective: 
 Make a list of live go links that my site uses that regularly updates to my site
 
