@@ -66,7 +66,7 @@ Yes, but this one actually stays within a single cmd window, so that's nice.
 
 1:33 -- Alex: "After reviewing all the relevant information, I would suggest writing a PowerShell script, that incorporates the WinSCP executable to download the remote file, then remove. Afterwards, edit the file from shell with another command like Add-Content, then pass the file through to WinSCP once more for the upload. I would be interested in further research for this project, I will contact you later tonight possibly."
 
-2:20 -- I'm ending work here for today. Alex mentioned other possibilities than PowerShell (like using the server's Linux capabilities), but I'll look at those tomorrow. This is still an important project (see [Relevance](ethanplante.org/go/go-links-setup#Relevance)), and I'm not sure how much progress I've actually made toward the goal. Still enjoyed figuring this out, though.
+2:20 -- I'm ending work here for today. Alex mentioned other possibilities than PowerShell (like using the server's Linux capabilities), but I'll look at those tomorrow. This is still an important project (see [Relevance](https://ethanplante.org/go/go-links-setup#relevance)), and I'm not sure how much progress I've actually made toward the goal. Still enjoyed figuring this out, though.
 
 ---
 
