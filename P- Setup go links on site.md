@@ -57,7 +57,7 @@ Yes, but this one actually stays within a single cmd window, so that's nice.
 
 00:37 -- Alright. Bite-sized goal: *find* the .htaccess file with cmd.
 
-
+00:54 -- Since the last update, a friendly fellow named Alex P. gave me a notification on [one of the tabs I had open](https://www.hostwinds.com/guide/creating-editing-htaccess-file/). (Hello, by the way.)
 
 ---
 Current Focus: Find the .htaccess file with command line...
