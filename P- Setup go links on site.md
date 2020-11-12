@@ -16,6 +16,7 @@ Relevance:
 
 ---
 ## Log
+11-11-2020
 22:14 -- Started.
 Downloaded WinSCP as the software that can interact with files on my site.
 
@@ -48,6 +49,12 @@ Soon enough, I'll be able to edit my go link redirects from the command line...
 So the first order of business is to use the bit of code I had above, and make a script from it...
 
 Is `"C:\Program Files (x86)\WinSCP\WinSCP.com"` the same thing? The site describes them similarly...
+
+Yes, but this one actually stays within a single cmd window, so that's nice.
+
+00:18 -- Aaaaaaand, I found the meat of the matter. [This article covers automation](https://winscp.net/eng/docs/guide_automation).
+
+
 
 ---
 Current Focus: Edit .htaccess with command line...
