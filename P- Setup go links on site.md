@@ -53,6 +53,8 @@ Yes, but this one actually stays within a single cmd window, so that's nice.
 
 12:25 -- How do I edit the .htaccess file? Do I need to download it, edit, then reupload?
 
+*I realize that this is kind of like a more removed version of live-streaming. Interesting. Perhaps I could make another twitter account for project updates / garden updates*
+
 ---
 Current Focus: Edit .htaccess with command line...
 
