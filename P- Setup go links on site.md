@@ -59,11 +59,7 @@ Yes, but this one actually stays within a single cmd window, so that's nice.
 
 00:54 -- Since the last update, a friendly fellow named Alex P. gave me a notification on [one of the tabs I had open](https://www.hostwinds.com/guide/creating-editing-htaccess-file/).
 
-1:04 -- So it turns out that the next step was typing in `cd /public_html` and then 'get  .htaccess'. } (<-- this means that I figured out my bite-sized goal.) {My problem now is figuring out where it's downloaded
-
-
-
-and how to edit it with a script...
+1:04 -- So it turns out that the next step was typing in `cd /public_html` and then 'get  .htaccess'. } (<-- this means that I figured out my bite-sized goal.) {My problem now is figuring out where it's downloaded and how to edit it with a script...
 
 
 ---
