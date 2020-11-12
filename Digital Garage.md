@@ -1,3 +1,6 @@
+*This is a fuzzy, public note. I plan to clarify it by the end of the day (11-12-2020) *
+
+---
 # Digital Garage
 A *digital garage* is a place for me to work on projects with the garage door up.<sup>[1](#1)</sup> For now, this is just design and software projects, but I'm considering adding in rough outlines of learning projects as well.<sup>[2](#2)</sup>
 

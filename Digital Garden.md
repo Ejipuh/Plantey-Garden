@@ -24,7 +24,7 @@ To clarify: the projects I'm working on in public aren't part of my garden. Inst
 If you're curious as to how I plan to make digital gardens more unique, see [[Digital garden progress]](https://ethanplante.org/go/garden-progress)
 
 ---
-tags: #boat 
+tags: #boat, #public 
 link-tags: [[germinating seed-stubs]], [[Mental garden]], [[Idea Incubator for Plantey's Digital Garden]]
 
 [^1]: Note: In my note-taking app, I use `[[wikilinks]]` (which are links between notes that have double brackets) to connect ideas together. A lot of capital These won't be clickable on this site for now. (Though I do need to set that up...)
