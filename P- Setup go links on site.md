@@ -28,5 +28,14 @@ It's not letting me run that exe file in cmd. Time to review [the basics](https:
 
 23:26 -- Yes, alright. So, putting `start [the stuff from above]` doesn't actually do anything. I need to just put `winscp.exe [thing]`
 
+23:42 -- This is some pretty cool stuff. I just learned that you can hold shift while right clicking on a file to copy its file path. Super helpful.
+
+Here's the file path for WinSCP: `"C:\Program Files (x86)\WinSCP\WinSCP.exe"`
+
+When I want to run the WinSCP console, I need to put `"C:\Program Files (x86)\WinSCP\WinSCP.exe" /console` in the command line. From there, I apply [this stuff](https://winscp.net/eng/docs/commandline).
+
+
+Soon enough, I'll be able to edit my go link redirects from the command line...
+
 ...
 *Maybe it would be better to put the total time elapsed instead of the current time... I'll edit it afterwards.*
