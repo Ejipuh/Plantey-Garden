@@ -78,3 +78,4 @@ Yes, but this one actually stays within a single cmd window, so that's nice.
 
 ---
 tags: #publicBuild, #activeProject 
+links: [go link](https://ethanplante.org/go/go-links-setup)
