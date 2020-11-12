@@ -1,10 +1,14 @@
 # P- Setup go links on site
+DB: once you're here, let me know...
+
+---
 Objective: make a list of live go links that my site uses that regularly updates to my site
 
 Key Results:
-- easily edit go links
-- make live list of go links you have
-- create go link on upload of digital garden
+- [ ] easily edit go links
+- [ ] make live list in Obsidian of go links you have
+	- [ ] and on site
+- [ ] create go link on upload of digital garden
 
 Relevance:
 - if I can't do this, then the links in my posts will be limited and cut off from the rest of my digital garden
@@ -37,5 +41,9 @@ When I want to run the WinSCP console, I need to put `"C:\Program Files (x86)\Wi
 
 Soon enough, I'll be able to edit my go link redirects from the command line...
 
+---
+Current Focus: Edit .htaccess with command line...
+
+---
 ...
 *Maybe it would be better to put the total time elapsed instead of the current time... I'll edit it afterwards.*
