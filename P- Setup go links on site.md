@@ -12,5 +12,8 @@ Relevance:
 
 ---
 ## Log
+Started at 22:14.
 Downloaded WinSCP as the software that can interact with files on my site.
 
+23:01.
+Figured out how to edit .htaccess file from WinSCP to add a new redirect from /go/. (actually, that's where I set up the go link in my tweet for this)
