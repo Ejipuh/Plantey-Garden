@@ -57,8 +57,10 @@ Yes, but this one actually stays within a single cmd window, so that's nice.
 
 00:37 -- Alright. Bite-sized goal: *find* the .htaccess file with cmd.
 
+
+
 ---
-Current Focus: Edit .htaccess with command line...
+Current Focus: Find the .htaccess file with command line...
 
 ---
 ...
