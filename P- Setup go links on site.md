@@ -19,3 +19,14 @@ Downloaded WinSCP as the software that can interact with files on my site.
 
 (I'm tracking time as I go to document my efficiency.)
 
+23:09 -- So I need to run WinSCP from the command line. Gladly, [this site](https://winscp.net/eng/docs/commandline) tells me how to do so.
+It looks like what I need to do is start `C:\Program Files (x86)\WinSCP\WinSCP.exe` in the command line.
+
+It's not letting me run that exe file in cmd. Time to review [the basics](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands/)...
+
+23:21 -- So the start (stuff above) didn't quite work. I think there's a way to open it in cmd...
+
+23:26 -- Yes, alright. So, putting `start [the stuff from above]` doesn't actually do anything. I need to just put `winscp.exe [thing]`
+
+...
+*Maybe it would be better to put the total time elapsed instead of the current time... I'll edit it afterwards.*
