@@ -1,3 +1,7 @@
+*This is a fuzzy, public note. I plan to clarify it by the end of the day (11-12-2020) *
+
+---
+
 up: [[Tools for thought]] [^1]
 # Digital Garden
 There are a few different definitions of a digital garden around online, but generally they're online places to do thinking. A blog is where people post finished, polished posts; a digital garden is more of a work-in-progress for writing.
