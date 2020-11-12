@@ -55,7 +55,7 @@ Yes, but this one actually stays within a single cmd window, so that's nice.
 
 *I realize that this is kind of like a more removed version of live-streaming. Interesting. Perhaps I could make another twitter account for project updates / garden updates*
 
-00:28
+00:37 -- Alright. Bite-sized goal: *find* the .htaccess file with cmd.
 
 ---
 Current Focus: Edit .htaccess with command line...
