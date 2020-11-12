@@ -61,9 +61,11 @@ Yes, but this one actually stays within a single cmd window, so that's nice.
 
 1:04 -- So it turns out that the next step was typing in `cd /public_html` and then 'get  .htaccess'. } (<-- this means that I figured out my bite-sized goal.) {My problem now is figuring out where it's downloaded and how to edit it with a script...
 
+1:20 -- Alex says that I might need to extend this to a .NET assembly. I assume this is so that it can run files in a more complex programming language than just cmd.
+
+
 
 ---
-...
 *Maybe it would be better to put the total time elapsed instead of the current time. Next time, I might just have a start and end time.*
 
 ---
