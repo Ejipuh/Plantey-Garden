@@ -1,7 +1,11 @@
+*This is a fuzzy, public note. I plan to clarify it by the end of the day (11-12-2020) *
+
+Hello RJ!
+
 # Digital Garage
 A *digital garage* is a place for me to work on projects with the garage door up.<sup>[1](#1)</sup> For now, this is just design and software projects, but I'm considering adding in rough outlines of learning projects as well.<sup>[2](#2)</sup>
 
-Right now, I'm working on building my digital garden to be a helpful tool to bring developed ideas up in conversation, and as a place to 
+Right now, I'm working on building my [digital garden](ethanplante.org/go/garden) to be a helpful tool to bring developed ideas up in conversation, and as a place to 
 
 # What's On the Floor
 Current project: [[P- Setup go links on site]](https://ethanplante.org/go-links-setup)
