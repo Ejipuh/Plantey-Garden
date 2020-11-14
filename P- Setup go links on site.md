@@ -1,7 +1,6 @@
 # P- Setup go links on site
 ## Objective: 
-Make a list of live go links that my site uses that regularly updates to my site
- (hello heather!)
+Make a list of live go links that my site uses that regularly updates to my site.
 ## Key Results:
 - [ ] Edit .htaccess from command line 	
 - [ ] make live list in Obsidian of go links you have ([vault]/go-links-list)
