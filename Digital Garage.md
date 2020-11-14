@@ -6,7 +6,7 @@ A *digital garage* is a place for me to work on projects with the garage door up
 Right now, I'm working on building my [digital garden](ethanplante.org/go/garden) to be a helpful tool to bring developed ideas up in conversation, and as a place to 
 
 # What's On the Floor
-Current project: [[P- Setup go links on site]](https://ethanplante.org/go-links-setup)
+Current project: [[P- Setup go links on site]](https://ethanplante.org/go/go-links-setup)
 
 GitHub is the current place where both my digital garden and garage are held.
 
