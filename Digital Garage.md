@@ -1,4 +1,4 @@
-*This is a fuzzy, public note. I plan to clarify it by the end of the day (11-12-2020) *
+*This is a fuzzy, public note. I plan to clarify it by the end of the day (11-20-2020) *
 
 # Digital Garage
 A *digital garage* is a place for me to work on projects with the garage door up.<sup>[1](#1)</sup> For now, this is just design and software projects, but I'm considering adding in rough outlines of learning projects as well.<sup>[2](#2)</sup>
@@ -18,8 +18,11 @@ For progress on my digital garden process, see [[Digital garden progress]](https
 
 
 ---
-tags: #post, #public 
-go link: https://ethanplante.org/go/digital-garage
+metadata
+- first posted: 
+- updated: 
+- tags: #post, #public 
+- go link: https://ethanplante.org/go/digital-garage
 
 <a name="">1</a>: Based on [one of Matuschak's notes](https://notes.andymatuschak.org/z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu)
 

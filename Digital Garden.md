@@ -1,4 +1,4 @@
-*This is a fuzzy, public note. I plan to clarify it by the end of the day (11-12-2020) *
+*This is a fuzzy, public note. I plan to clarify it next time I see it...*
 
 ---
 
@@ -28,8 +28,10 @@ To clarify: the projects I'm working on in public aren't part of my garden. Inst
 If you're curious as to how I plan to make digital gardens more unique, see [[Digital garden progress]](https://ethanplante.org/go/garden-progress)
 
 ---
-tags: #boat, #public 
-link-tags: [[germinating seed-stubs]], [[Mental garden]], [[Idea Incubator for Plantey's Digital Garden]]
+metadata
+- last updated: [[November 20th, 2020]]
+- tags: #boat, #public 
+- link-tags: [[germinating seed-stubs]], [[Mental garden]], [[Idea Incubator for Plantey's Digital Garden]]
 
 [^1]: Note: In my note-taking app, I use `[[wikilinks]]` (which are links between notes that have double brackets) to connect ideas together. A lot of capital These won't be clickable on this site for now. (Though I do need to set that up...)
 [^2]: Because I think my usage of this idea is different enough from the common use of it, I might name a new term. This is just my current analogy for now. Subject to change, of course. I just want to distinguish from the common use.
