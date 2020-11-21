@@ -2,7 +2,7 @@
 
 ---
 
-up: [[Tools for thought]] [^1]
+up: [[Tools for thought]] <sup>[1](#1)</sup>
 # Digital Garden
 There are a few different definitions of a digital garden around online, but generally they're online places to do thinking. A blog is where people post finished, polished posts; a digital garden is more of a work-in-progress for writing.
 
@@ -14,7 +14,7 @@ Personally, I prefer to keep all my raw thinking in Obsidian so I can cultivate 
 
 In other words, my public digital garden is mostly made up of crops that have grown a bit, whereas my personal notes are more of a Greenhouse for ideas.
 
-In my use[^2], this *digital garden* is an online place to hold my ideas in a way.
+In my use<sup>[2](#2)</sup>, this *digital garden* is an online place to hold my ideas in a way.
 
 
 What my working goal for this... is is to distinguish between 
@@ -33,5 +33,5 @@ metadata
 - tags: #boat, #public 
 - link-tags: [[germinating seed-stubs]], [[Mental garden]], [[Idea Incubator for Plantey's Digital Garden]]
 
-[^1]: Note: In my note-taking app, I use `[[wikilinks]]` (which are links between notes that have double brackets) to connect ideas together. A lot of capital These won't be clickable on this site for now. (Though I do need to set that up...)
-[^2]: Because I think my usage of this idea is different enough from the common use of it, I might name a new term. This is just my current analogy for now. Subject to change, of course. I just want to distinguish from the common use.
+<a name="">1</a>: Note: In my note-taking app, I use `[[wikilinks]]` (which are links between notes that have double brackets) to connect ideas together. A lot of capital These won't be clickable on this site for now. (Though I do need to set that up...)
+<a name="">2</a>: Because I think my usage of this idea is different enough from the common use of it, I might name a new term. This is just my current analogy for now. Subject to change, of course. I just want to distinguish from the common use.
