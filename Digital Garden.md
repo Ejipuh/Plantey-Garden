@@ -34,4 +34,5 @@ metadata
 - link-tags: [[germinating seed-stubs]], [[Mental garden]], [[Idea Incubator for Plantey's Digital Garden]]
 
 <a name="">1</a>: Note: In my note-taking app, I use `[[wikilinks]]` (which are links between notes that have double brackets) to connect ideas together. A lot of capital These won't be clickable on this site for now. (Though I do need to set that up...)
+
 <a name="">2</a>: Because I think my usage of this idea is different enough from the common use of it, I might name a new term. This is just my current analogy for now. Subject to change, of course. I just want to distinguish from the common use.
