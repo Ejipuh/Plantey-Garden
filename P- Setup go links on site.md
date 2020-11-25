@@ -4,7 +4,8 @@ Make a live list of go links that my site uses that regularly updates to my site
 ## Key Results:
 - [ ] AutoHotKey shortcut can add a go link for an uploaded note
 - [ ] Functionally edit .htaccess from command line
-- [ ] make live list in Obsidian of go links you have ([vault]/go-links-list)
+- [ ] Each note title in a folder (plantey-garden)
+- [ ] make live list in Obsidian of go links to garden posts
 	- [ ] and on site (under /go/)
 - [ ] create go link when you upload digital garden
 
