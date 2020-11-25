@@ -26,4 +26,4 @@ metadata
 
 <a name="">1</a>: Based on [one of Matuschak's notes](https://notes.andymatuschak.org/z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu)
 
-<a name="">2</a>: At the same time, I'm kind of hesitant to do this, not only because of technical limitations, but because it might break my [[Digital Garden]](https://ethanplante.org/go/digital-garden)
+<a name="">2</a>: At the same time, I'm kind of hesitant to do this, not only because of technical limitations, but because it might break my [[Plantey's Digital Garden]](https://ethanplante.org/go/digital-garden)
