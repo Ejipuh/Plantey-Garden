@@ -3,7 +3,7 @@
 Make a live list of go links that my site uses that regularly updates to my site.
 ## Key Results:
 - [ ] Functionally edit .htaccess from command line
-- [ ] Create go link when you upload digital garden
+- [ ] Create [go link](https://ethanplante.org/go/) when you upload digital garden
 - [ ] Whenever a new github link is updated:
 	- [ ] a redirect is created in the text file
 	- [ ] GitHub note for this is updated
