@@ -1,23 +1,32 @@
-# P- Setup go links on site
+# Making a list of go links
 ## Objective: 
-Make a list of live go links that my site uses that regularly updates to my site.
+Make a live list of go links that my site uses that regularly updates to my site.
 ## Key Results:
-- [ ] Edit .htaccess from command line 	
+- [ ] AutoHotKey shortcut can add a go link for an uploaded note
+- [ ] Functionally edit .htaccess from command line
 - [ ] make live list in Obsidian of go links you have ([vault]/go-links-list)
 	- [ ] and on site (under /go/)
 - [ ] create go link when you upload digital garden
 
 ## Relevance
+- Enables me to share go links to my evergreens right after uploading them to the garden
 - Enables a good index for my [[Go links]](https://ethanplante.org/go)
 	- See [this page](https://flancia.org/mine/go-links/) for what makes go links powerful
 - if I can't do this, then the links in my posts will be limited and cut off from the rest of my digital garden
-- 
+
+## Current Focus:
+- [ ] Figure out how to edit a text file from cmd
+	- [ ] Probably will need Python or other language
+	- [ ] 
+- [ ] figure out how to delete .htaccess from cmd
+- [ ] figure out how to upload that text file as .htaccess
 
 
 
 ---
-## Log
-11-11-2020
+# Log
+- [ ] Make a separate note for this
+## 11-11-2020
 22:14 -- Started.
 Downloaded WinSCP as the software that can interact with files on my site.
 
@@ -71,9 +80,9 @@ Yes, but this one actually stays within a single cmd window, so that's nice.
 
 2:20 -- I'm ending work here for today. Alex mentioned other possibilities than PowerShell (like using the server's Linux capabilities), but I'll look at those tomorrow. This is still an important project (see [Relevance](https://ethanplante.org/go/go-links-setup#relevance)), and I'm not sure how much progress I've actually made toward the goal. Still enjoyed figuring this out, though.
 
----
-# If I PM'd you about this
-Hello! Thanks for taking a second to read this.
+## [[November 25th, 2020]]
+ilmeschinocalunniato on the Athens Discord server warned me against making the .htaccess file public. Instead, I should make a list that uploads as .htaccess. This clarifies my goals a bit...
+
 
 
 ---
@@ -81,5 +90,4 @@ Hello! Thanks for taking a second to read this.
 
 ---
 tags: #publicBuild, #activeProject 
-
-links: [go link](https://ethanplante.org/go/go-links-setup)
+go link: https://ethanplante.org/go/go-links-setup
