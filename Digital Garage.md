@@ -3,21 +3,23 @@
 # Digital Garage
 A *digital garage* is a place for me to work on projects with the garage door up.<sup>[1](#1)</sup> For now, this is just design and software projects, but I'm considering adding in rough outlines of learning projects as well.<sup>[2](#2)</sup>
 
-In my [[Plantey's Digital Garden]](https://ethanplante.org/go/garden) note, I mentioned that I don't , this is a place for me to put logs of my progress on projects,
+In my [[Plantey's Digital Garden]](https://ethanplante.org/go/garden) note, I mentioned that I don't like voicing an view before I understand. Unlike that, this is a place for me to put logs of my progress on projects, as I start and go. If my goals and completion criteria are clear
 
-Right now, I'm working on building my digital garden to be a helpful tool to bring developed ideas up in conversation, and as a place to 
 
 I don't want to restrict myself to a single course of projects, so I have:
 - A page that documents my progress so far: [[Digital garden progress]](https://ethanplante.org/go/garden-progress), and...
 - A page of things I want to do: [[The Garage Chalkboard]](https://ethanplante.org/go/garage-chalkboard)
 
 # What's On the Floor
+Right now, I'm working on building my digital garden to be a helpful tool to bring developed ideas up in conversation, and as a place to 
+
 Current project: [[P- Setup go links on site]](https://ethanplante.org/go/go-links-setup)
 
-GitHub is the current place where both my digital garden and garage are held.
+For progress on my digital garden process, see [[Digital garden progress]](https://ethanplante.org/go/garden-progress)
 
 ---
-For progress on my digital garden process, see [[Digital garden progress]](https://ethanplante.org/go/garden-progress)
+GitHub is the current place where both my digital garden and garage are held.
+
 
 
 
