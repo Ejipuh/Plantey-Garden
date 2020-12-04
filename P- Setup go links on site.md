@@ -1,4 +1,8 @@
 # Making a list of go links
+
+## Current Focus
+*Learning JavaScript templating with [this tutorial](https://medium.com/@1sherlynn/javascript-templating-language-and-engine-mustache-js-with-node-and-express-f4c2530e73b2).*
+---
 ## Objective: 
 Make a live list of go links from my site uses that regularly updates to https://ethanplante.org/go. (If you don't know what a go link is, check that link out. They're pretty much like social bookmarks from my site to somewhere on the web.)
 
@@ -36,8 +40,7 @@ For updating the go link destination...
 For making wikilinks clickable...
 - [ ] Edit a text file with a script to add a new go link based on markdown format
 
-## Current Focus
-*Learn JavaScript templating with [this tutorial](https://medium.com/@1sherlynn/javascript-templating-language-and-engine-mustache-js-with-node-and-express-f4c2530e73b2), which Arya from the Interhackt Discord server sent me.*
+
 
 
 
@@ -114,6 +117,8 @@ Yes, but this one actually stays within a single cmd window, so that's nice.
 ## [[November 25th, 2020]]
 ilmeschinocalunniato on the Athens Discord server warned me against making the .htaccess file public. Instead, I should make a list that uploads as .htaccess. This clarifies my goals a bit...
 
+## [[December 3rd, 2020]]
+Arya from the Interhackt Discord server helped with my issues and sent me [this tutorial](https://medium.com/@1sherlynn/javascript-templating-language-and-engine-mustache-js-with-node-and-express-f4c2530e73b2). Learning JS will help me with other projects, but if this is too complex, I'll just use Python, seeing that I have some experience with it.
 
 
 ---
