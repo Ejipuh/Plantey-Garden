@@ -17,9 +17,14 @@ Make a live list of go links that my site uses that regularly updates to my site
 	- See [this page](https://flancia.org/mine/go-links/) for what makes go links powerful
 - if I can't do this, then the links in my posts will be limited and cut off from the rest of my digital garden
 
+## Strategy
+1. Edit a text file with a script
+2. Run this from cmd
+3. 
+
 ## Current Focus:
 - [ ] Figure out how to edit a text file from cmd
-	- [ ] Probably will need Python or other language
+	- [ ] Need to edit text of the text file
 	- [ ] 
 - [ ] figure out how to delete .htaccess from cmd
 - [ ] figure out how to upload that text file as .htaccess
@@ -35,8 +40,7 @@ Make a live list of go links that my site uses that regularly updates to my site
 
 
 # Current Issues
-- I need 
-
+- [ ] I'm not sure what language to use for step 1. Testing out Python...
 
 
 
