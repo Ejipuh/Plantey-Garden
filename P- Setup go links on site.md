@@ -2,6 +2,7 @@
 
 ## Current Focus
 *Learning JavaScript templating with [this tutorial](https://medium.com/@1sherlynn/javascript-templating-language-and-engine-mustache-js-with-node-and-express-f4c2530e73b2).*
+
 ---
 ## Objective: 
 Make a live list of go links from my site uses that regularly updates to https://ethanplante.org/go. (If you don't know what a go link is, check that link out. They're pretty much like social bookmarks from my site to somewhere on the web.)
