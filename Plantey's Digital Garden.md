@@ -13,7 +13,7 @@ If you search much online, you'll find different kinds of gardens
 
 
 # A Garden with a Greenhouse
-I'm not a huge fan of saying something about a topic before I've learned much about it, so I'm using Obsidian as an incubator for my ideas until I clarify them enough to share them.<sup>[2](Plantey's%20Digital%20Garden#2)</sup>
+I'm not a huge fan of publicly saying something about a topic before I've learned much about it, so I'm using Obsidian as an incubator for my ideas until I clarify them enough to share them.<sup>[2](Plantey's%20Digital%20Garden#2)</sup>
 
 A lot of digital gardens have some really cool stuff, once you peruse through them. At the same time, it gets hard to find the cool and clear bits when a lot of it feels like blog posts that are clear and insightful...until you get halfway through and find that it (Or what feels like the first half of an article.) The whole process is out in the open. 
 
@@ -30,17 +30,16 @@ What my working goal for this... is is to distinguish between
 		- I'd need a "this was..." thing above each, btw
 
 # A Garden for Ideas; A Garage for Projects
-
-
 To clarify: the projects I'm working on in public aren't part of my garden. Instead, they're different enough that I prefer to call them my [[Digital Garage]]<sup>[1](Plantey's%20Digital%20Garden#1)</sup>.
 
-If you're curious as to how I plan to make digital gardens more unique, see 
+A good amount of current projects in the garage are indeed things that I want to use in order to build my garden up, but that might have to wait for now. I have a few invention ideas in a separate list, but seeing that those are ideas and not current things I'm aiming to make, I'll wait until I have something more like an evergreen note in order to 
+
 
 ---
 metadata
-- last updated: [[November 20th, 2020]]
+- last updated: [[November 27th, 2020]]
 - tags: #boat, #public 
-- link-tags: [[germinating seed-stubs]], [[Mental garden]], [[Idea Incubator for Plantey's Digital Garden]], [[Digital Garden]]
+- link-tags: [[germinating seed-stubs]], [[Mental garden]], [[Ideas for Plantey's Digital Garden]], [[Digital Garden]]
 
 <a name="">1</a>: Note: In my note-taking app, I use `[[wikilinks]]` (which are links between notes that have double brackets) to connect ideas together. A lot of capital These won't be clickable on this site for now. (Though I do need to set that up...)
 

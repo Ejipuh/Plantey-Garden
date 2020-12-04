@@ -24,6 +24,20 @@ Make a live list of go links that my site uses that regularly updates to my site
 - [ ] figure out how to delete .htaccess from cmd
 - [ ] figure out how to upload that text file as .htaccess
 
+# Unsorted Ideas about this project
+- [ ] Auto-convert wikilinks in Obsidian to good URIs on site? (go link conversion from title)
+- [ ] Old titles should redirect to new go links (double bounce... but will this be bad for optimization? maybe file them all as equal variables or update all to the newest one or something...)
+	- [Cool URIs don't change](https://www.w3.org/Provider/Style/URI) (thanks, @Flancia for putting this on your garden) 
+	- [Evergreen note titles are like APIs](https://notes.andymatuschak.org/Evergreen_note_titles_are_like_APIs)
+		- actually, meshes the metaphor! I need a name for this system...
+	- [ ] Each wikilink page has a go link for it
+
+
+
+# Current Issues
+- I need 
+
+
 
 
 ---
