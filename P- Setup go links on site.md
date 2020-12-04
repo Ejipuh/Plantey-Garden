@@ -2,7 +2,7 @@
 
 ## Current Focus: Updating Redirect List from Text File
 Working on updating implicit redirect list...
-- Learning JavaScript templating with [this tutorial](https://medium.com/@1sherlynn/javascript-templating-language-and-engine-mustache-js-with-node-and-express-f4c2530e73b2).<sup>[1](#1)</sup>
+- Learning JavaScript templating with [this tutorial](https://medium.com/@1sherlynn/javascript-templating-language-and-engine-mustache-js-with-node-and-express-f4c2530e73b2).
 
 
 ---
