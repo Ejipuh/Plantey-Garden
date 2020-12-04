@@ -1,36 +1,48 @@
 # Making a list of go links
 ## Objective: 
-Make a live list of go links that my site uses that regularly updates to my site.
-## Key Results:
-- [ ] Functionally edit .htaccess from command line
-- [ ] Create [go link](https://ethanplante.org/go/) when you upload digital garden
-- [ ] Whenever a new github link is updated:	
-	- [ ] a redirect is created in the text file
-	- [ ] GitHub note for this is updated
-	- [ ] Site is updated
+Make a live list of go links from my site uses that regularly updates to https://ethanplante.org/go. (If you don't know what a go link is, check that link out. They're pretty much like social bookmarks from my site to somewhere on the web.)
 
-- [ ] AutoHotKey shortcut can add a go link for an uploaded note
 
 ## Relevance
-- Enables me to share go links to my evergreens right after uploading them to the garden
+- Reduces friction to setting up go links
+	- Enables me to share go links to my evergreens right after uploading them to the garden
 - Enables a good index for my [[Go links]](https://ethanplante.org/go)
 	- See [this page](https://flancia.org/mine/go-links/) for what makes go links powerful
-- if I can't do this, then the links in my posts will be limited and cut off from the rest of my digital garden
 
-## Strategy
-1. Edit a text file with a script
-2. Run this from cmd
-3. 
+---
+## Key Results:
+- [ ] A go link exists for each note in [Obsidian Database]/Plantey-Garden (subfolder for where I hold my Obsidian notes) based on title unless otherwise specified
+- [ ] New go link destinations are automatically updated...
+- [ ] Wikilinks on site are represented by go links, to allow me to change where things are hosted
+- [ ] Make a list of where you've used the go links? (If outside of digital greenhouse/garden)
 
-## Current Focus:
-- [ ] Figure out how to edit a text file from cmd
-	- [ ] Need to edit text of the text file
-	- [ ] 
+## Flexible Strategy
+For updating implicit redirect list...
+- [ ] Learn how to edit text files with code and templating...
+- [ ] Figure out how to run this from cmd
+- [ ] Add the start of this to AHK
+
+For making live list of go links...
+- [ ] Use STH to upload the text file
 - [ ] figure out how to delete .htaccess from cmd
 - [ ] figure out how to upload that text file as .htaccess
 
-# Unsorted Ideas about this project
-- [ ] Auto-convert wikilinks in Obsidian to good URIs on site? (go link conversion from title)
+For updating the go link destination...
+- [ ] Whenever a new github link is updated:
+	- [ ] a redirect is created in the text file
+	- [x] GitHub note for this is updated	
+	- [ ] Site is updated
+
+For making wikilinks clickable...
+- [ ] Edit a text file with a script to add a new go link based on markdown format
+
+## Current Focus
+*Learn JavaScript templating with [this tutorial](https://medium.com/@1sherlynn/javascript-templating-language-and-engine-mustache-js-with-node-and-express-f4c2530e73b2), which Arya from the Interhackt Discord server sent me.*
+
+
+
+# Additional Goals
+- [ ] Auto-convert wikilinks in Obsidian to good URIs on site (go link conversion from title)
 - [ ] Old titles should redirect to new go links (double bounce... but will this be bad for optimization? maybe file them all as equal variables or update all to the newest one or something...)
 	- [Cool URIs don't change](https://www.w3.org/Provider/Style/URI) (thanks, @Flancia for putting this on your garden) 
 	- [Evergreen note titles are like APIs](https://notes.andymatuschak.org/Evergreen_note_titles_are_like_APIs)
@@ -39,8 +51,6 @@ Make a live list of go links that my site uses that regularly updates to my site
 
 
 
-# Current Issues
-- [ ] I'm not sure what language to use for step 1. Testing out Python...
 
 
 
