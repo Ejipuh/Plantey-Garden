@@ -1,7 +1,8 @@
 # Making a list of go links
 
-## Current Focus
-*Learning JavaScript templating with [this tutorial](https://medium.com/@1sherlynn/javascript-templating-language-and-engine-mustache-js-with-node-and-express-f4c2530e73b2).*
+## Current Focus: Updating Redirect List from Text File
+Working on updating implicit redirect list...
+- Learning JavaScript templating with [this tutorial](https://medium.com/@1sherlynn/javascript-templating-language-and-engine-mustache-js-with-node-and-express-f4c2530e73b2).<sup>[1](#1)</sup>
 
 
 ---
@@ -16,30 +17,30 @@ Make a live list of go links from my site uses that regularly updates to https:/
 	- See [this page](https://flancia.org/mine/go-links/) for what makes go links powerful
 
 ---
-## Key Results:
-- [ ] A go link exists for each note in [Obsidian Database]/Plantey-Garden (subfolder for where I hold my Obsidian notes) based on title unless otherwise specified
-- [ ] New go link destinations are automatically updated...
-- [ ] Wikilinks on site are represented by go links, to allow me to change where things are hosted
-- [ ] Make a list of where you've used the go links? (If outside of digital greenhouse/garden)
+## Key Results (KR):
+1. A go link exists for each note in [Obsidian Database]/Plantey-Garden (subfolder for where I hold my Obsidian notes) based on title unless otherwise specified
+2. New go link destinations are automatically updated...
+3. Wikilinks on site are represented by go links, to allow me to change where things are hosted
+4. Make a list of where I've used the go links? (If outside of digital greenhouse/garden)
 
-## Flexible Strategy
-For updating implicit redirect list...
+## Flexible Strategy (FS)
+I. For updating implicit redirect list...
 - [ ] Learn how to edit text files with code and templating...
 - [ ] Figure out how to run this from cmd
 - [ ] Add the start of this to AHK
 
-For making live list of go links...
+II. For making live list of go links...
 - [ ] Use STH to upload the text file
 - [ ] figure out how to delete .htaccess from cmd
 - [ ] figure out how to upload that text file as .htaccess
 
-For updating the go link destination...
+III. For updating the go link destination...
 - [ ] Whenever a new github link is updated:
 	- [ ] a redirect is created in the text file
 	- [x] GitHub note for this is updated	
 	- [ ] Site is updated
 
-For making wikilinks clickable...
+IV. For making wikilinks clickable...
 - [ ] Edit a text file with a script to add a new go link based on markdown format
 
 
