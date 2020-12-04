@@ -123,10 +123,15 @@ ilmeschinocalunniato on the Athens Discord server warned me against making the .
 ## [[December 3rd, 2020]]
 Arya from the Interhackt Discord server helped with my issues and sent me [this tutorial](https://medium.com/@1sherlynn/javascript-templating-language-and-engine-mustache-js-with-node-and-express-f4c2530e73b2). Learning JS will help me with other projects, but if this is too complex, I'll just use Python, seeing that I have some experience with it.
 
+Downloaded [[Node.js]], which I learned allows you to run JavaScript without using the web. Sweet.
+
+Downloading npm, which lets me download packages with Node.js.
+
+Alright, after going over that tutorial slowly about 4 times now and intermittently searching up confusing words on Google, I've determined that I need someone else to explain things to me. 
 
 ---
 *Maybe it would be better to put the total time elapsed instead of the current time. Next time, I might just have a start and end time.*
 
 ---
-tags: #publicBuild, #activeProject 
+tags: #publicBuild, #activeProject, #public 
 go link: https://ethanplante.org/go/go-links-setup
