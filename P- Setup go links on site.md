@@ -129,8 +129,13 @@ Downloading npm, which lets me download packages with Node.js.
 
 Alright, after going over that tutorial slowly about 4 times now and intermittently searching up confusing words on Google, I've determined that I need someone else to explain things to me. 
 
----
-*Maybe it would be better to put the total time elapsed instead of the current time. Next time, I might just have a start and end time.*
+## [[December 4th, 2020]]
+Consulting Discord once more.
+
+I might be able to figure this out. Following [this tutorial for setting up an app using VS Code and Node JS](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial), I managed to make a little snippet that can run from cmd. In other words: *I can run javascript scripts from the command line now.* Time to learn JS basics...
+
+
+
 
 ---
 tags: #publicBuild, #activeProject, #public 
