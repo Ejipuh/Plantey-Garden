@@ -134,4 +134,5 @@ Alright, after going over that tutorial slowly about 4 times now and intermitten
 
 ---
 tags: #publicBuild, #activeProject, #public 
+
 go link: https://ethanplante.org/go/go-links-setup
