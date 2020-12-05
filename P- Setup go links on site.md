@@ -140,7 +140,7 @@ So Leonard Pauli helped me out a bit. He made an html file that walked me throug
 - I'm finding that HTML isn't super hard to pick up. It's like markdown, but more complicated.
 - I'm trying to figure out how to actually get the page to display the replacement with the mustache template setup.
 
-
+	
 
 
 
