@@ -140,7 +140,9 @@ So Leonard Pauli helped me out a bit. He made an html file that walked me throug
 - I'm finding that HTML isn't super hard to pick up. It's like markdown, but more complicated.
 - I'm trying to figure out how to actually get the page to display the replacement with the mustache template setup.
 
-	
+21:58
+- Apparently you can run shortcuts to the Windows command line. If you hit Win-R, type cmd, and hit enter, it opens the command line. But if you put `cmd /k [command]`, it opens the command line after invisibly running that command with it. Pretty cool. So what I setup is a command called `doskey` that lets you make shortcuts to run commands from smaller words or phrases in the command line. What I did is set one up to navigate to my Plantey-Garden file from where cmd normally opens. The command looks like this: `'doskey garden=cd "C:\Users\[rest of the path to my Obsidian database]\Plantey-Garden"'`. The final result is for me to run `cmd /k [that long thing]` from the Win-R box.
+	- Of course, I realized afterward that I could've just typed this into the Win-R box: `cmd /k cd "C:\Users\[rest of the path to my Obsidian database]\Plantey-Garden"`, which would put me at the same spot. Nice, self.
 
 
 
