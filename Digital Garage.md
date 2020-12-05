@@ -12,6 +12,9 @@ I don't want to restrict myself to a single course of projects, so I have:
 
 
 # What's On the Floor
+Note to self: link to Chalkboard here, and make a live list of current projects (maybe just put these things on chalkboard and link to it here and on garage page...)
+
+
 Right now, I'm working on building my digital garden to be a helpful tool to bring developed ideas up in conversation, and as a place to 
 
 Current project: [[P- Setup go links on site]](https://ethanplante.org/go/go-links-setup)
@@ -20,7 +23,6 @@ For progress on my digital garden process, see [[Digital garden progress]](https
 
 ---
 GitHub is the current place where both my digital garden and garage are held.
-
 
 
 

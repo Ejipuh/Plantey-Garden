@@ -4,7 +4,8 @@
 Working on updating implicit redirect list...
 - Learning JavaScript templating with [this tutorial](https://medium.com/@1sherlynn/javascript-templating-language-and-engine-mustache-js-with-node-and-express-f4c2530e73b2).
 
-
+Where I left off last / Current holdup: try running `node app.js` from garden/hello. It says the mustache thing is missing, so check the code for app.js and hello.html. Also, check the documentation that you have saved to make sure you setup the library correctly.
+- also, check this out for phase 2: [For - Looping commands - Windows CMD - SS64.com](https://ss64.com/nt/for.html)
 ---
 ## Objective: 
 Make a live list of go links from my site uses that regularly updates to https://ethanplante.org/go. (If you don't know what a go link is, check that link out. They're pretty much like social bookmarks from my site to somewhere on the web.)
@@ -144,6 +145,8 @@ So Leonard Pauli helped me out a bit. He made an html file that walked me throug
 - Apparently you can run shortcuts to the Windows command line. If you hit Win-R, type cmd, and hit enter, it opens the command line. But if you put `cmd /k [command]`, it opens the command line after invisibly running that command with it. Pretty cool. So what I setup is a command called `doskey` that lets you make shortcuts to run commands from smaller words or phrases in the command line. What I did is set one up to navigate to my Plantey-Garden file from where cmd normally opens. The command looks like this: `'doskey garden=cd "C:\Users\[rest of the path to my Obsidian database]\Plantey-Garden"'`. The final result is for me to run `cmd /k [that long thing]` from the Win-R box.
 	- Of course, I realized afterward that I could've just typed this into the Win-R box: `cmd /k cd "C:\Users\[rest of the path to my Obsidian database]\Plantey-Garden"`, which would put me at the same spot. Nice, self.
 
+### 10:18
+- That's a day.
 
 
 
