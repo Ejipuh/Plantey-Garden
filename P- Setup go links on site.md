@@ -136,7 +136,12 @@ I might be able to figure this out. Following [this tutorial for setting up an a
 
 So Leonard Pauli helped me out a bit. He made an html file that walked me through the basics of replacing things in JS.
 
-I'm finding that HTML isn't super hard to pick up. It's like markdown, but more complicated.
+21:05
+- I'm finding that HTML isn't super hard to pick up. It's like markdown, but more complicated.
+- I'm trying to figure out how to actually get the page to display the replacement with the mustache template setup.
+
+
+
 
 
 
