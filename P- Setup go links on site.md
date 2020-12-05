@@ -134,6 +134,9 @@ Consulting Discord once more.
 
 I might be able to figure this out. Following [this tutorial for setting up an app using VS Code and Node JS](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial), I managed to make a little snippet that can run from cmd. In other words: *I can run javascript scripts from the command line now.* Time to learn JS basics...
 
+So Leonard Pauli helped me out a bit. He made an html file that walked me through the basics of replacing things in JS.
+
+I'm finding that HTML isn't super hard to pick up. It's like markdown, but more complicated.
 
 
 
