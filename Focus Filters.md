@@ -3,7 +3,7 @@ up: [[Design Ideas]]
 *Mentally-complementary, open-source irrigation for (digital) streams of novelty. RSS feeds unified scattered waterfalls of novelty; this will dam up and filter out as we wish.*
 
 Notes to reader: 
-- This will be full of [[wikilinks]]. These connect notes in my interlinked notebook, but you'll only be able to click [links that look like this]. Sorry for the mess. Welcome to my current [[Digital Garage]](https://ethanplante.org/go/digital-garage) project.*
+- This will be full of [[wikilinks]]. These connect notes in my interlinked notebook, but you'll only be able to click [links that look like this]. Sorry for the mess. Welcome to my first [[Digital Garage]](https://ethanplante.org/go/digital-garage) project.
 - It's a mess, and I'll be updating every so often. Stay posted.
 - If you want me to clarify stuff, reply [at this link](https://twitter.com/plantey_tools/status/1336483426048860162?s=20).
 - I invite you to build this with me. Feel free to build this yourself and send me questions as I build it. I'll check [my initial Twitter post](https://twitter.com/plantey_tools/status/1336483426048860162?s=20) as well as my PMs 5 minutes after I get stuck or tired.
@@ -26,14 +26,11 @@ The Core Goal (For Now)
 		- I want the user to be able to type in a basic filter (so they can learn how to program with it)
 
 **Official Start of Implementation -- 19:58**
-- [x] Figure out how to open Python in cmd....
-	- Sick. All I have to do is `>py`. Well, that was easy. Now to learning this thing...
-	- Nvm. Not going to figure out how to do Python. Switching back 
 - [ ] Tag titles 
 - [ ] Filter by title
 - [ ] Friction to skip?
 			- [ ] Doodle video where I walk through my goals with this
-- [ ] **Upload post about this** -- then go to the guys' place
+- [ ] **For the boys:** I'll be over after I get the tags filter working.
 
 Conditions
 - [ ] **Before uploading to GitHub**, choose a policy option

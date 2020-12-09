@@ -11,13 +11,21 @@ I don't want to restrict myself to a single course of projects, so I have:
 - A page of things I want to do: [[The Garage Chalkboard]](https://ethanplante.org/go/garage-chalkboard)
 
 
-# What's On the Floor
-Note to self: link to Chalkboard here, and make a live list of current projects (maybe just put these things on chalkboard and link to it here and on garage page...)
+# What's On the Floor -- Live Projects
+*I made a room for each project. Or at least, something akin to a room...*
+**Key**
+- -> : Current.
+
+Project I: Go links. -- Flexible, memorable, social bookmarks
+- [[P- Go links]](https://ethanplante.org/go/go-links-setup)
+
+->Project II: Focus Filters. -- Learning wisdom by making it harder to get distracted.
+- [[Focus Filters]](https://ethanplante.org/focus-filters)
 
 
 Right now, I'm working on building my digital garden to be a helpful tool to bring developed ideas up in conversation, and as a place to 
 
-Current project: [[P- Setup go links on site]](https://ethanplante.org/go/go-links-setup)
+ 
 
 For progress on my digital garden process, see [[Digital garden progress]](https://ethanplante.org/go/garden-progress)
 

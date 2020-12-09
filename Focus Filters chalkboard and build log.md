@@ -39,8 +39,15 @@ Started with this: [Find RSS Feed URLs for YouTube Channels and YouTube Playlist
 - [x] Update front page with core goal (of right now...)
 - ight, back to twitter.
 
-22:56
+From earlier:
+- [x] Figure out how to open Python in cmd....
+	- Sick. All I have to do is `>py`. Well, that was easy. Now to learning this thing...
+	- Nvm. Not going to figure out how to do Python. Switching back 
 
+23:27.
+- Back to work. I've been distracted since 22:50. I'm making this tool because *I* need it.
+	- "Or you could learn to focus." *Or*, I could build a tool that helps to teach me to focus.
+- 
 
 
 
