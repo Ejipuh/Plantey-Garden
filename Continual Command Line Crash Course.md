@@ -37,4 +37,4 @@ For now, let's both read `>help` when we're curious as to what else this thing c
 
 --- 
 tags: #MOC, #tutorialThing, #public 
-go link: 
+go link: https://ethanplante.org/go/cmd-tutorial
