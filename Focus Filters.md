@@ -7,10 +7,13 @@ Notes to reader:
 - It's a mess, and I'll be updating every so often. Stay posted.
 - If you want me to clarify stuff, reply [at this link](https://twitter.com/plantey_tools/status/1336483426048860162?s=20).
 - I invite you to build this with me. Feel free to build this yourself and send me questions as I build it. I'll check [my initial Twitter post](https://twitter.com/plantey_tools/status/1336483426048860162?s=20) as well as my PMs at 21:00. (I'm on ET.)
+	- This is because other similar projects either lack the shapeable filtering thing I want, or because they're not easy to setup.
 
 ---
 
 # Chalkboard
+Project closes at 13:00 tomorrow. Self, be done with core matters a good bit before then.
+
 **Official Start of Implementation -- 19:58**
 - [ ] Single file for RSS feeds
 - [ ] 20:02 - Parse RSS feeds and get 3 titles
