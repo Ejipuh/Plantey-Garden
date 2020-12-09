@@ -12,12 +12,11 @@ Focus Filters: *Cognitively-complementary, open-source irrigation for (digital) 
 - single file of RSS feeds
 - tags for feeds
 	- *and for posts by keyword, but I might not get to that tonight*
-- central place to read
+- central place to read? (*or Obsidian export, if I feel ambitious*)
 - *I'm adding in skip-friction filters on top of these. (That's what is my main aim here. Once I have a lightweight version of that, I'll take a break.)*
-- *This is a great *
 - Reference: UI ![[Pasted image 20201208204234.png]]
 - Reference: shortcuts ![[Pasted image 20201208204212.png]]
-- 
+
 
 
 

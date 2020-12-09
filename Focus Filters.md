@@ -8,6 +8,7 @@ Notes to reader:
 - If you want me to clarify stuff, reply [at this link](https://twitter.com/plantey_tools/status/1336483426048860162?s=20).
 - I invite you to build this with me. Feel free to build this yourself and send me questions as I build it. I'll check [my initial Twitter post](https://twitter.com/plantey_tools/status/1336483426048860162?s=20) as well as my PMs 5 minutes after I get stuck or tired.
 	- This is because other similar projects either lack the shapeable filtering thing I want, or because they're not easy to setup.
+	- If you have no coding experience, check out [[Continual Command Line Crash Course]]
 
 ---
 
