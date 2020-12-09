@@ -1,2 +1,2 @@
 # Plantey's Digital Garden
- This is a public repo for my more polished and clear evergreen notes.
+ Welcome to my digital garden! Here, I cultivate idea-seeds. For more clarity on this, see [Digital Garden](https://ethanplante.org/go/garden)
