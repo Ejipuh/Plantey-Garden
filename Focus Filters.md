@@ -18,7 +18,7 @@ Project closes at 13:00 tomorrow. Self, be done with core matters a good bit bef
 - [ ] Single file for RSS feeds
 - [ ] 20:02 - Parse RSS feeds and get 3 titles
 - [ ] Tag these titles 
-- [ ] **Upload post** -- then go to Jordan's
+- [ ] **Upload post** -- then go to the guys' place
 
 
 # Now Links
