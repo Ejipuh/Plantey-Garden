@@ -8,6 +8,9 @@ Focus Filters: *Cognitively-complementary, open-source irrigation for (digital) 
 **Official Start of Implementation -- 19:58**
 *Reverse-engineering.*
 
+Started with this: [Find RSS Feed URLs for YouTube Channels and YouTube Playlist - YouTube Tip Tutorial - YouTube](https://www.youtube.com/watch?v=WmbPhkW8PHQ)
+- Easy enough. Took RSS feed for Andrew Huang's channel (first channel that popped up): `https://www.youtube.com/feeds/videos.xml?channel_id=UCdcemy56JtVTrsFIOoqvV8g`
+
 20:42. Now that I setup the public log, I'm reading this: [Newsboat - A Command line RSS/Atom Feed Reader For Text Consoles](https://ostechnix.com/newsbeuter-command-line-rssatom-feed-reader-unix-like-systems/) Written for Linux, not Windows, but I'll take some good dev ideas:
 - single file of RSS feeds
 - tags for feeds
