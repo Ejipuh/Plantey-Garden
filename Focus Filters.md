@@ -28,9 +28,9 @@ Developed thoughts
 
 # Now Links
 - [[Things I Borrowed for Focus Filters]]
-- for current progress: [[Focus Filters chalkboard and build log]](https://ethanplante.org/focus-filters)
+- for current progress: [[Focus Filters chalkboard and build log]](https://ethanplante.org/focus-filters-chalkboard-log)
 - [[Focus Filters stuff in a big messy note]]
 
 --- 
 tags: #MOC, #public 
-
+go link: https://ethanplante.org/go/focus-filters

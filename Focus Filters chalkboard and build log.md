@@ -17,4 +17,4 @@ Focus Filters: *Cognitively-complementary, open-source irrigation for (digital) 
 
 --- 
 tags: #journal
-
+long-term (go) link: https://ethanplante.org/go/ff-chalkboard-build-log
