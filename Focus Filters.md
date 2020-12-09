@@ -28,15 +28,12 @@ The Core Goal (For Now)
 **Official Start of Implementation -- 19:58**
 - [x] Figure out how to open Python in cmd....
 	- Sick. All I have to do is `>py`. Well, that was easy. Now to learning this thing...
-- [ ] Parse YouTube RSS feeds with Python and get 5 video titles
-	- [ ] Learn to search for string
-	- [ ] for each `<entry>`, find title and url, then add tags on your own...
-	- [ ] Make single file for RSS feeds when needed
+	- Nvm. Not going to figure out how to do Python. Switching back 
 - [ ] Tag titles 
 - [ ] Filter by title
 - [ ] Friction to skip?
 			- [ ] Doodle video where I walk through my goals with this
-- [ ] **Upload post** -- then go to the guys' place
+- [ ] **Upload post about this** -- then go to the guys' place
 
 Conditions
 - [ ] **Before uploading to GitHub**, choose a policy option
@@ -46,7 +43,12 @@ Conditions
 		- for current progress: [[Focus Filters chalkboard and build log]](https://ethanplante.org/go/ff-chalkboard-build-log)
 - [[Focus Filters stuff in a big messy note for me]]
 
-	
+# Maybe Later
+- [ ] Parse YouTube RSS feeds with Python and get 5 video titles
+	- [ ] Learn to search for string
+	- [ ] for each `<entry>`, find title and url, then add tags on your own...
+	- [ ] Make single file for RSS feeds when needed
+
 
 
 # More Links
@@ -66,6 +68,7 @@ Developed thoughts
 - *A single interface from which to interact with new things.*
 - *I liked Nick Milo's MOCs and home note so much, I'm making an app that's based on it! (Although mine does add a bit of intentional focus-friction...)*
 - *I like the Proverbs and the pedagogy of them, so I want to design a system similar to this: consider one simple thing, get enlightened by realizing it's profound, rinse, repeat.*
+- *Hi, Mom!*
 - 
 
 
