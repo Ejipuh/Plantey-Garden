@@ -22,10 +22,13 @@ Started with this: [Find RSS Feed URLs for YouTube Channels and YouTube Playlist
 - Yoooo. So it turns out that this is actively maintained. Cool. (For Linux.) Still cool.
 - 
 
-
+21:40ish.
 [fraidycat: Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.](https://github.com/kickscondor/fraidycat)
-- Ight, so this one's pretty lit, except that it doesn't have enough categories and user-definable filters rules. But that's where I'm stepping in. I might just fork from this project... for now, I'll keep my code local.
-- 
+- Ight, so this one's pretty lit, except that it doesn't have enough categories and user-definable filters rules. But that's where I'm stepping in. I might just fork from this project... but for now, I'll keep my code local.
+- Installed [Electron | Build cross-platform desktop apps with JavaScript, HTML, and CSS.](https://www.electronjs.org/) in [[Node.js]] to run the thing
+	- *Learned that [[Electron]] is how you can make desktop apps with JS <3*
+
+
 
 
 

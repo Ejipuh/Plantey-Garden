@@ -28,12 +28,15 @@ Project closes at 13:00 tomorrow. Self, be done with core matters a good bit bef
 			- [ ] Doodle video where I walk through my goals with this
 - [ ] **Upload post** -- then go to the guys' place
 
+Conditions
+- [ ] **Before uploading to GitHub**, choose a policy option
+
 
 # Now Links
 		- for current progress: [[Focus Filters chalkboard and build log]](https://ethanplante.org/go/ff-chalkboard-build-log)
 - [[Focus Filters stuff in a big messy note for me]]
 
-
+	
 
 
 # More Links
