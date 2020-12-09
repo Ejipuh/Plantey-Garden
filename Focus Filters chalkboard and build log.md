@@ -28,7 +28,8 @@ Started with this: [Find RSS Feed URLs for YouTube Channels and YouTube Playlist
 - Installed [Electron | Build cross-platform desktop apps with JavaScript, HTML, and CSS.](https://www.electronjs.org/) in [[Node.js]] to run the thing
 	- *Learned that [[Electron]] is how you can make desktop apps with JS <3*
 
-
+22:11.
+- I've become distracted. I was hopping between python and js documentaries. I think I need a break.
 
 
 
