@@ -23,8 +23,9 @@ Started with this: [Find RSS Feed URLs for YouTube Channels and YouTube Playlist
 - 
 
 
-
-
+[fraidycat: Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.](https://github.com/kickscondor/fraidycat)
+- Ight, so this one's pretty lit, except that it doesn't have enough categories and user-definable filters rules. But that's where I'm stepping in. I might just fork from this project... for now, I'll keep my code local.
+- 
 
 
 

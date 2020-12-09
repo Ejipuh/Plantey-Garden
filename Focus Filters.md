@@ -18,18 +18,19 @@ Project closes at 13:00 tomorrow. Self, be done with core matters a good bit bef
 **Official Start of Implementation -- 19:58**
 - [x] Figure out how to open Python in cmd....
 	- Sick. All I have to do is `>py`. Well, that was easy. Now to learning this thing...
-- [ ] Parse RSS feeds with Python and get 3 titles
-	- [ ] Learn to search for string; see if that's good enough?
-	- [ ] Make single file for RSS feeds
+- [ ] Parse YouTube RSS feeds with Python and get 5 video titles
+	- [ ] Learn to search for string
+	- [ ] for each `<entry>`, find title and url, then add tags on your own...
+	- [ ] Make single file for RSS feeds when needed
 - [ ] Tag titles 
 - [ ] Filter by title
 - [ ] Friction to skip?
-- [ ] Doodle video where I walk through my goals with this
+			- [ ] Doodle video where I walk through my goals with this
 - [ ] **Upload post** -- then go to the guys' place
 
 
 # Now Links
-- for current progress: [[Focus Filters chalkboard and build log]](https://ethanplante.org/go/ff-chalkboard-build-log)
+		- for current progress: [[Focus Filters chalkboard and build log]](https://ethanplante.org/go/ff-chalkboard-build-log)
 - [[Focus Filters stuff in a big messy note for me]]
 
 
