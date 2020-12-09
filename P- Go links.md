@@ -11,18 +11,23 @@ Where I left off last / Current holdup: try running `node app.js` from garden/he
 Make a live list of go links from my site uses that regularly updates to https://ethanplante.org/go. (If you don't know what a go link is, check that link out. They're pretty much like social bookmarks from my site to somewhere on the web.)
 
 
-## Relevance
+## Relevance to Me
 - Reduces friction to setting up go links
 	- Enables me to share go links to my evergreens right after uploading them to the garden
 - Enables a good index for my [[Go links]](https://ethanplante.org/go)
 	- See [this page](https://flancia.org/mine/go-links/) for what makes go links powerful
 
+## Relevance to You
+- Cool, social bookmarks that are pretty easy to remember
+- You can set them up fairly easily on https://anagora.org
+
 ---
 ## Key Results (KR):
-1. A go link exists for each note in [Obsidian Database]/Plantey-Garden (subfolder for where I hold my Obsidian notes) based on title unless otherwise specified
-2. New go link destinations are automatically updated...
-3. Wikilinks on site are represented by go links, to allow me to change where things are hosted
-4. Make a list of where I've used the go links? (If outside of digital greenhouse/garden)
+- [ ] A go link exists for each note in [Obsidian Database]/Plantey-Garden (subfolder for where I hold my Obsidian notes) based on title unless otherwise specified
+- [ ] New .htaccess file is uploaded by means of another
+	- [ ] Learn Python again (lol), have it do some text editing and add in all the WordPress stuff
+- [ ] Wikilinks on site are represented by go links, to allow me to change where things are hosted
+- [ ] Make a list of where I've used the go links? (If outside of digital greenhouse/garden)
 
 ## Flexible Strategy (FS)
 I. For updating implicit redirect list...

@@ -1,6 +1,8 @@
-*This is a fuzzy, public note. I plan to clarify it by the end of the day (11-20-2020) *
+*This is a fuzzy, public note. I plan to clarify it by the end of the day (11-20-2020)*
 
 # Digital Garage
+*Crafting Items.*
+
 A *digital garage* is a place for me to work on projects with the garage door up.<sup>[1](#1)</sup> For now, this is just design and software projects, but I'm considering adding in rough outlines of learning projects as well.<sup>[2](#2)</sup>
 
 This is a bit different from my garden. While I don't like to talk about ideas too broadly before I develop them a bit, I do think it's good to talk about my projects and practices in this way. These work a bit differently.<sup>[3](#3)</sup> this is a place for me to put logs of my progress on projects, as I start and go. If my goals and completion criteria are clear

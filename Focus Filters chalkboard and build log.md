@@ -47,7 +47,11 @@ From earlier:
 23:27.
 - Back to work. I've been distracted since 22:50. I'm making this tool because *I* need it.
 	- "Or you could learn to focus." *Or*, I could build a tool that helps to teach me to focus.
-- 
+
+00:45.
+- I realize I may have been using my time poorly. I'm going to pause doing the demo until my next step becomes more clear. Instead, I'll focus on communicating my core idea about this Item and about [[Living Items - Items as a Medium-Metaphor]] in general. That's what I really want to focus on.
+
+
 
 
 
