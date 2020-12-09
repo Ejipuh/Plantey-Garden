@@ -10,10 +10,13 @@ Think Kanban boards as the interface, PARA as the framework, Minecraft as the gu
 You feed in a list of data types, variables, and objects, then...
 
 # An Interface for Focus
+*In which each object takes center-stage.*
 
-**Fractal Filters** are strings and sorting criteria for what task 
+**Objects** are, well, objects. Any data type: string, article, song, sound, etc.
 
-**Friction** is a small hindrance to skipping the current item.
+**Fractal Filters** are strings and sorting criteria for what object to look at next. There will be a preview feature where one can flip through something akin to a jukebox and queue up the next object to look at. 
+
+**Friction** is a small hindrance to skipping the current item. Perhaps a word count.
 
 **Items** are groups of APIs and functions that work together to meet a various amount of tasks and goals. They are specific enough to be tools, but flexible and improvisatory enough to be toys. Fractal Filters and Friction are the two items that I will focus my efforts on first, since they are those which will teach the user *code literacy* , *how to think*, and *how to design other Items*.
 
