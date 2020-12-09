@@ -7,12 +7,16 @@ Focus Filters: *Cognitively-complementary, open-source irrigation for (digital) 
 
 **Official Start of Implementation -- 19:58**
 *Reverse-engineering.*
-- This tutorial/guide [Newsboat - A Command line RSS/Atom Feed Reader For Text Consoles](https://ostechnix.com/newsbeuter-command-line-rssatom-feed-reader-unix-like-systems/) is for Linux, not Windows, but I took some good dev ideas:
+
+20:42. Now that I setup the public log, I'm reading this: [Newsboat - A Command line RSS/Atom Feed Reader For Text Consoles](https://ostechnix.com/newsbeuter-command-line-rssatom-feed-reader-unix-like-systems/) Written for Linux, not Windows, but I took some good dev ideas:
 	- single file of RSS feeds
 	- tags for feeds
 	- central place to read
-	- *I'm adding in skip-friction filters*
+	- *I'm adding in skip-friction filters on top of these. (That's what is my main aim here. Once I have a lightweight version of that, I'll take a break.)*
 	- *This is a great *
+- Reference: UI ![[Pasted image 20201208204234.png]]
+- Reference: shortcuts ![[Pasted image 20201208204212.png]]
+- 
 
 
 
