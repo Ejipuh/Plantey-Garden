@@ -15,11 +15,12 @@ Notes to reader:
 Project closes at 13:00 tomorrow. Self, be done with core matters a good bit before then.
 
 **Official Start of Implementation -- 19:58**
-- [ ] Single file for RSS feeds
-- [ ] 20:02 - Parse RSS feeds and get 3 titles
-- [ ] Tag these titles 
+- [ ] Parse RSS feeds and get 3 titles
+	- [ ] Make single file for RSS feeds
+- [ ] Tag titles 
 - [ ] Filter by title
-- [ ] Friction skip?
+- [ ] Friction to skip?
+- [ ] Doodle video where I walk through my goals with this
 - [ ] **Upload post** -- then go to the guys' place
 
 
