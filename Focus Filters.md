@@ -1,6 +1,3 @@
----
-aliases: [Focus Filter]
----
 up: [[Design Ideas]]
 # Focus Filters
 *Mentally-complementary, open-source irrigation for (digital) streams of novelty. RSS feeds unified scattered waterfalls of novelty; this will dam up and filter out as we wish.*
