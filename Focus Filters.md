@@ -11,9 +11,19 @@ Notes to reader:
 	- If you have no coding experience, check out [[Continual Command Line Crash Course]](https://ethanplante.org/go/cmd-tutorial)
 
 ---
+# Terms & Tools & Tool-Terms
+- Focus filters: the core of this entire system; these are customizable filters to change what you are made to see at any given time; blocks and explores elements as if they were wise sayings
+- Focus-friction
 
-# Chalkboard
-Project closes at 13:00 tomorrow. Self, be done with core matters a good bit before then.
+
+# The Chalkboard
+Project closes at 13:00 tomorrow. *Self, be done with core matters a good bit before then.*
+
+The Core Goal (For Now)
+- I want to make an interface for focus and priorities, where these are built into what it's doing. An object browser thing... Something built on itself...
+	- [ ] Tag for each data type, sub-tags for search filters...
+		- If that sounds like Email Filters: the UI, then it should sound about right.
+		- I want the user to be able to type in a basic filter (so they can learn how to program with it)
 
 **Official Start of Implementation -- 19:58**
 - [x] Figure out how to open Python in cmd....
@@ -44,11 +54,19 @@ Citations & credits:
 - [[Things I Borrowed for Focus Filters]]
 
 Relevant principles:
-- [[Focused teaching]] / [[Designing for focus]] / 4[[focus-capturing activity]]
+- [[Focused teaching]] / [[Designing for focus]] / [[focus-capturing activity]]
 - [[A collective web should be able to be filtered]]
 
 Developed thoughts
 - [[Intro to novelty filter system]]
+
+
+# Alternate taglines
+- *Cognitively-complementary, open-source irrigation for (digital) streams of novelty. RSS feeds unified scattered waterfalls of novelty; this will dam up and filter out as we wish.*
+- *A single interface from which to interact with new things.*
+- *I liked Nick Milo's MOCs and home note so much, I'm making an app that's based on it! (Although mine does add a bit of intentional focus-friction...)*
+- *I like the Proverbs and the pedagogy of them, so I want to design a system similar to this: consider one simple thing, get enlightened by realizing it's profound, rinse, repeat.*
+- 
 
 
 --- 

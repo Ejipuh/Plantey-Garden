@@ -1,10 +1,12 @@
 up: [[Focus Filters]]
 # Focus Filters chalkboard and build log 
-*I'm working on reverse-engineering existing projects as fast as I can! This is why I love open-source.*
-
-Focus Filters: *Cognitively-complementary, open-source irrigation for (digital) streams of novelty. RSS feeds unified scattered waterfalls of novelty; this will dam up and filter out as we wish.*
+*I'm relearning JavaScript so that I can focus on the core parts of this app!*
 
 
+# Chalkboard
+See [[Focus Filters]](https://ethanplante.org/go/focus-filters#)
+
+# A More Linear Log (Insofar as It Is Easy)
 **Official Start of Implementation -- 19:58**
 *Reverse-engineering.*
 
@@ -31,7 +33,13 @@ Started with this: [Find RSS Feed URLs for YouTube Channels and YouTube Playlist
 22:11.
 - I've become distracted. I was hopping between python and js documentaries. I think I need a break.
 
+...
+22:19.
+- Slight bit of clarity: I need to spell out my real goal here...
+- [x] Update front page with core goal (of right now...)
+- ight, back to twitter.
 
+22:56
 
 
 
