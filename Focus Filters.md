@@ -6,7 +6,7 @@ Notes to reader:
 - This will be full of [[wikilinks]]. These connect notes in my interlinked notebook, but you'll only be able to click [links that look like this]. Sorry for the mess. Welcome to my current [[Digital Garage]](https://ethanplante.org/go/digital-garage) project.*
 - It's a mess, and I'll be updating every so often. Stay posted.
 - If you want me to clarify stuff, reply [at this link](https://twitter.com/plantey_tools/status/1336483426048860162?s=20).
-- I invite you to build this with me. Feel free to build this yourself and send me questions as I build it. I'll check [my initial Twitter post](https://twitter.com/plantey_tools/status/1336483426048860162?s=20) as well as my PMs at 21:00. (I'm on ET.)
+- I invite you to build this with me. Feel free to build this yourself and send me questions as I build it. I'll check [my initial Twitter post](https://twitter.com/plantey_tools/status/1336483426048860162?s=20) as well as my PMs 5 minutes after I get stuck or tired. (I'm on ET.)
 	- This is because other similar projects either lack the shapeable filtering thing I want, or because they're not easy to setup.
 
 ---
@@ -18,6 +18,8 @@ Project closes at 13:00 tomorrow. Self, be done with core matters a good bit bef
 - [ ] Single file for RSS feeds
 - [ ] 20:02 - Parse RSS feeds and get 3 titles
 - [ ] Tag these titles 
+- [ ] Filter by title
+- [ ] Friction skip?
 - [ ] **Upload post** -- then go to the guys' place
 
 
