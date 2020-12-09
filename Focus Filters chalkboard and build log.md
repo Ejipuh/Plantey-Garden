@@ -16,6 +16,10 @@ Focus Filters: *Cognitively-complementary, open-source irrigation for (digital) 
 - *I'm adding in skip-friction filters on top of these. (That's what is my main aim here. Once I have a lightweight version of that, I'll take a break.)*
 - Reference: UI ![[Pasted image 20201208204234.png]]
 - Reference: shortcuts ![[Pasted image 20201208204212.png]]
+- Yoooo. So it turns out that this is actively maintained. Cool. (For Linux.) Still cool.
+- 
+
+
 
 
 

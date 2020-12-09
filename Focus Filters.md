@@ -16,7 +16,10 @@ Notes to reader:
 Project closes at 13:00 tomorrow. Self, be done with core matters a good bit before then.
 
 **Official Start of Implementation -- 19:58**
-- [ ] Parse RSS feeds and get 3 titles
+- [x] Figure out how to open Python in cmd....
+	- Sick. All I have to do is `>py`. Well, that was easy. Now to learning this thing...
+- [ ] Parse RSS feeds with Python and get 3 titles
+	- [ ] Learn to search for string; see if that's good enough?
 	- [ ] Make single file for RSS feeds
 - [ ] Tag titles 
 - [ ] Filter by title
