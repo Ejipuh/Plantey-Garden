@@ -43,10 +43,11 @@ Conditions
 
 
 # Now Links
-		- for current progress: [[Focus Filters chalkboard and build log]](https://ethanplante.org/go/ff-chalkboard-build-log)
+- for current progress: [[Focus Filters chalkboard and build log]](https://ethanplante.org/go/ff-chalkboard-build-log)
 - [[Focus Filters stuff in a big messy note for me]]
 
 # Maybe Later
+- [[Focus friction for digital novelty]]
 - [ ] Parse YouTube RSS feeds with Python and get 5 video titles
 	- [ ] Learn to search for string
 	- [ ] for each `<entry>`, find title and url, then add tags on your own...
