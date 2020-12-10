@@ -1,6 +1,6 @@
 up: [[Design Ideas]]
 # Focus Filters
-*One of a pallet of [[Living Items - Items as a Medium-Metaphor]]. Mentally-complementary, open-source irrigation for (digital) streams of novelty. RSS feeds unified scattered waterfalls of novelty; this will dam up and filter out as we wish.*
+*One of a pallet of [[Living Items]]. Mentally-complementary, open-source irrigation for (digital) streams of novelty. RSS feeds unified scattered waterfalls of novelty; this will dam up and filter out as we wish.*
 
 Notes to reader: 
 - This will be full of [[wikilinks]]. These connect notes in my interlinked notebook, but you'll only be able to click [links that look like this]. Sorry for the mess. Welcome to my first [[Digital Garage]](https://ethanplante.org/go/digital-garage) project.
@@ -17,21 +17,24 @@ Notes to reader:
 
 
 # The Chalkboard
-Project closes at 13:00 tomorrow. *Self, be done with core matters a good bit before then.*
+## Current Understanding of Core Goals (For Now)
+1. I want to make an interface for focus and priorities, where these are built into what it's doing. An object browser thing... Something built on itself...
+2. Make an interface that lets you code into the interface
 
-The Core Goal (For Now)
-- [ ] Doodle video where I walk through my goals with this, as well as broader implications
-	- [[Living Items - Items as a Medium-Metaphor|Fluid item]]
-- I want to make an interface for focus and priorities, where these are built into what it's doing. An object browser thing... Something built on itself...
-	- [ ] Tag for each data type, sub-tags for search filters...
-		- If that sounds like Email Filters: the UI, then it should sound about right.
-		- I want the user to be able to type in a basic filter (so they can learn how to program with it)
+## Implementing...
+2: Create an item* to make enacted experiences...
+- [ ] Use cmd ...
+- [ ] Learn GT, see how much that can help here? Totally simplify and bootstrap Pharo?
+- [ ] *Wait, are these the same thing as operators in GT? What distinguishes an item from a tool here? (see the guy's notes on dynabook)*
+
+For 1:
+- [ ] Tag for each data type, sub-tags for search filters... 
+	- I want the user to be able to type in a basic filter (so they can learn how to program with it)
 - [ ] Make a list of things
 - [ ] Go through these, one-by-one, with friction.
 	- [ ] Make switching costs tangible. "This frustration is how much your brain is frustrated and taxed when you switch tasks."
 - [ ] Tag these things
 - [ ] Make certain tags come up first
-	- [ ] **For the boys:** I'll be over after I get this one working.
 
 
 
